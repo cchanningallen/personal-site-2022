@@ -9,7 +9,7 @@ const HomePage = () => {
         <Avatar size="lg" className="mb-8" />
         <h1 className="text-2xl font-semibold mb-2">
           <span className="mr-2">👋</span>
-          <span>Hi! I'm Channing</span>
+          <span>{"Hi! I'm Channing"}</span>
         </h1>
       </div>
     </div>

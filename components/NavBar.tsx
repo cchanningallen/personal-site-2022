@@ -26,6 +26,7 @@ const NavBar = () => {
         <a
           href={LINKEDIN_URL}
           target="_blank"
+          rel="noreferrer"
           className="h-10 w-10 flex items-center justify-center p-2 text-sm font-bold text-gray-600 rounded cursor-pointer transition-all hover:text-indigo-500 hover:bg-gray-100 "
         >
           <LinkedInIcon className="w-4 h-4" />
@@ -33,6 +34,7 @@ const NavBar = () => {
         <a
           href={GITHUB_URL}
           target="_blank"
+          rel="noreferrer"
           className="h-10 w-10 flex items-center justify-center p-2 text-sm font-bold text-gray-600 rounded cursor-pointer transition-all hover:text-indigo-500 hover:bg-gray-100 "
         >
           <GithubIcon className="w-4 h-4" />

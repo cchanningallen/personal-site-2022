@@ -9,7 +9,7 @@ const AboutPage = () => {
         <div className="flex justify-between">
           <h1 className="text-2xl font-semibold">
             <span className="mr-2">👋</span>
-            <span>Hi! I'm Channing</span>
+            <span>{"Hi! I'm Channing"}</span>
           </h1>
           <Avatar size="md" />
         </div>
